@@ -1,19 +1,17 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://greendigitalhealth.netlify.app/",
+  "site_title": "Green Digital Health Tool",
+  "site_description": "SHADE Research 2024",
   "site_keywords": [
     {
-      "keyword": "Next.js"
+      "keyword": "Digital Health"
     },
     {
-      "keyword": "Netlify"
+      "keyword": "Sustainability"
     },
     {
-      "keyword": "React"
+      "keyword": "Framework"
     }
   ],
-  "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "github_account": "sp12102001"
 }
